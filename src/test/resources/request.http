@@ -1,0 +1,14 @@
+GET http://localhost:9977/camel/swagger
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+
+POST http://localhost:9977/camel/hi
+Accept: */*
+Cache-Control: no-cache
+
+Test
+
+###
